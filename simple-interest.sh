@@ -3,8 +3,8 @@ This script calculates simple interest given principal, annual rate of interest 
 Do not use this in production. Sample purpose only.
 
 Author: Upkar Lidder (IBM)
-Addtional Authors:
-<your Github username>
+Addtional Authors: ivanbesio
+
 
 Input:
 p, principal amount
